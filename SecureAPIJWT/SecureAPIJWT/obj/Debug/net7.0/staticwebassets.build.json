@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V5Q8yMmvXHlQdX3KKPzdvwNwceRVj0M6ZMDRR/9VYUA=",
+  "Source": "SecureAPIJWT",
+  "BasePath": "_content/SecureAPIJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
